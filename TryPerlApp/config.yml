@@ -1,0 +1,38 @@
+# This is the main configuration file of your Dancer app
+# env-related settings should go to environments/$env.yml
+# all the settings in this file will be loaded at Dancer's startup.
+
+# Your application's name
+appname: "TryPerlApp"
+
+# The default layout to use for your application (located in
+# views/layouts/main.tt)
+#layout: "main"
+
+# when the charset is set to UTF-8 Dancer will handle for you
+# all the magic of encoding and decoding. You should not care
+# about unicode within your app when this setting is set (recommended).
+charset: "UTF-8"
+
+#template engine
+# simple: default and very basic template engine
+# template_toolkit: TT
+
+# template: "template_toolkit"
+# engines:
+#   template_toolkit:
+#     encoding:  'utf8'
+#     start_tag: '[%'
+#     end_tag:   '%]'
+session: "cookie"
+session_cookie_key: "kjsdf07234hjf0sdkflj12*&(@*j45k"
+
+plugins:
+  "Auth::Github":
+    client_id: "60ba99ca66356215f34c"
+    client_secret: "48cd4f52503947356b5f3e9fbdb504dc698c2189"
+    scope: "gist"
+    github_auth_failed: "/fail"
+    github_auth_success: "/"
+    
+

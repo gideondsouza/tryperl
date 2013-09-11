@@ -1,0 +1,67 @@
+﻿.x-action-col-cell img
+{
+    height: 16px;
+    width: 16px;
+}
+.deleteIcon
+{
+    background-image: url('./icons/cross.png');
+}
+.goIcon
+{
+    background-image: url('./icons/script_go.png');
+}
+.saveIcon
+{
+    background-image: url('./icons/script_save.png');
+}
+.newIcon
+{
+    background-image: url('./icons/script_add.png');
+}
+.dooroutIcon
+{
+    background-image: url('./icons/door_out.png');
+}
+.checkIcon
+{
+    background-image: url('./icons/tick.png');
+}
+.octocatIcon
+{
+    background-image: url('./icons/octocat.png');
+}
+.helpIcon
+{
+    background-image: url('./icons/help.png');
+}
+.infoIcon
+{
+    background-image: url('./icons/information.png');
+}
+.facebookIcon
+{
+	background-image: url('./icons/facebook.png');
+}
+.twitterIcon
+{
+	background-image: url('./icons/twitter.png');
+}
+.googleplusIcon
+{
+	background-image: url('./icons/googleplus.png');
+}
+.emailIcon
+{
+	background-image: url('./icons/email.png');
+}
+.shareIcon
+{
+	background-image: url('./icons/link.png');
+}
+#outputpanel-body
+{
+    font-family: "Helvetica Neue" , Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 20px;
+}

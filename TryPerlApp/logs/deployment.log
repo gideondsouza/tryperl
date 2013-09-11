@@ -1,0 +1,1890 @@
+[33903] debug @0.000047> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[33902] debug @0.000049> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[33904] debug @0.000029> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[33901] debug @0.000035> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[33900] debug @0.000107> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[33902] debug @8.665841> [hit #3]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[33902] debug @8.699795> [hit #3]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'Tryout.pl',
+            'file_id' => '5655543',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5648627',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Bin.pl',
+            'file_id' => '5611407',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'FirstTry.pl',
+            'file_id' => '5600457',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'axis.pl',
+            'file_id' => '5565023',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5561228',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5555915',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5550177',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5532284',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'huma1.pl',
+            'file_id' => '5531976',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531966',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531962',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5507963',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'replace_hashes.pl',
+            'file_id' => '5502408',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5486040',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'TestingPerl.pl',
+            'file_id' => '5467782',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466444',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466441',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test.pl',
+            'file_id' => '5462744',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5460890',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Moose.pl',
+            'file_id' => '5453882',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'UTF-8.pl.pl',
+            'file_id' => '5384044',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5382231',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitledo.pl',
+            'file_id' => '5378729',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5371380',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'unt2.pl',
+            'file_id' => '5332260',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332258',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332257',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5329653',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5316989',
+            'description' => 'Created by www.tryperl.com.'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[33900] debug @5.309595> [hit #3]===> Dumping gist returned in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 143
+[33900] debug @5.320093> [hit #3]$VAR1 = '6515325'; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 144
+[33900] debug @3.098277> [hit #4]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[33900] debug @3.099159> [hit #4]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'abcd_try.pl',
+            'file_id' => '6515325',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Tryout.pl',
+            'file_id' => '5655543',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5648627',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Bin.pl',
+            'file_id' => '5611407',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'FirstTry.pl',
+            'file_id' => '5600457',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'axis.pl',
+            'file_id' => '5565023',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5561228',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5555915',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5550177',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5532284',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'huma1.pl',
+            'file_id' => '5531976',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531966',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531962',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5507963',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'replace_hashes.pl',
+            'file_id' => '5502408',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5486040',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'TestingPerl.pl',
+            'file_id' => '5467782',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466444',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466441',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test.pl',
+            'file_id' => '5462744',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5460890',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Moose.pl',
+            'file_id' => '5453882',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'UTF-8.pl.pl',
+            'file_id' => '5384044',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5382231',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitledo.pl',
+            'file_id' => '5378729',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5371380',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'unt2.pl',
+            'file_id' => '5332260',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332258',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332257',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5329653',
+            'description' => 'Created by www.tryperl.com.'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34446] debug @0.000027> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34443] debug @0.000025> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34445] debug @0.000027> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34444] debug @0.000025> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34442] debug @0.000024> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34446] debug @4.806824> [hit #5]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34446] debug @4.807559> [hit #5]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'abcd_try.pl',
+            'file_id' => '6515325',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Tryout.pl',
+            'file_id' => '5655543',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5648627',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Bin.pl',
+            'file_id' => '5611407',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'FirstTry.pl',
+            'file_id' => '5600457',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'axis.pl',
+            'file_id' => '5565023',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5561228',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5555915',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5550177',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5532284',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'huma1.pl',
+            'file_id' => '5531976',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531966',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531962',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5507963',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'replace_hashes.pl',
+            'file_id' => '5502408',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5486040',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'TestingPerl.pl',
+            'file_id' => '5467782',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466444',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466441',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test.pl',
+            'file_id' => '5462744',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5460890',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Moose.pl',
+            'file_id' => '5453882',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'UTF-8.pl.pl',
+            'file_id' => '5384044',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5382231',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitledo.pl',
+            'file_id' => '5378729',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5371380',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'unt2.pl',
+            'file_id' => '5332260',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332258',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332257',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5329653',
+            'description' => 'Created by www.tryperl.com.'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34445] debug @6.341295> [hit #3]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34445] debug @6.372445> [hit #3]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'abcd_try.pl',
+            'file_id' => '6515325',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Tryout.pl',
+            'file_id' => '5655543',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5648627',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Bin.pl',
+            'file_id' => '5611407',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'FirstTry.pl',
+            'file_id' => '5600457',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'axis.pl',
+            'file_id' => '5565023',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5561228',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5555915',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5550177',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5532284',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'huma1.pl',
+            'file_id' => '5531976',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531966',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531962',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5507963',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'replace_hashes.pl',
+            'file_id' => '5502408',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5486040',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'TestingPerl.pl',
+            'file_id' => '5467782',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466444',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466441',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test.pl',
+            'file_id' => '5462744',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5460890',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Moose.pl',
+            'file_id' => '5453882',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'UTF-8.pl.pl',
+            'file_id' => '5384044',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5382231',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitledo.pl',
+            'file_id' => '5378729',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5371380',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'unt2.pl',
+            'file_id' => '5332260',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332258',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332257',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5329653',
+            'description' => 'Created by www.tryperl.com.'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34442] debug @0.012429> [hit #6]====> Entering RUN\n in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 68
+[34442] debug @4.435654> [hit #6]====>  in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 71
+[34481] debug @0.000043> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34479] debug @0.000040> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34478] debug @0.000043> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34482] debug @0.000040> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34480] debug @0.000033> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34479] debug @4.864258> [hit #4]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34479] debug @4.865035> [hit #4]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'abcd_try.pl',
+            'file_id' => '6515325',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Tryout.pl',
+            'file_id' => '5655543',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5648627',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Bin.pl',
+            'file_id' => '5611407',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'FirstTry.pl',
+            'file_id' => '5600457',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'axis.pl',
+            'file_id' => '5565023',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5561228',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5555915',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5550177',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5532284',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'huma1.pl',
+            'file_id' => '5531976',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531966',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531962',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5507963',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'replace_hashes.pl',
+            'file_id' => '5502408',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5486040',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'TestingPerl.pl',
+            'file_id' => '5467782',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466444',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466441',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test.pl',
+            'file_id' => '5462744',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5460890',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Moose.pl',
+            'file_id' => '5453882',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'UTF-8.pl.pl',
+            'file_id' => '5384044',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5382231',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitledo.pl',
+            'file_id' => '5378729',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5371380',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'unt2.pl',
+            'file_id' => '5332260',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332258',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332257',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5329653',
+            'description' => 'Created by www.tryperl.com.'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34482] debug @3.432739> [hit #7]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34482] debug @3.433619> [hit #7]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'abcd_try.pl',
+            'file_id' => '6515325',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Tryout.pl',
+            'file_id' => '5655543',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5648627',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Bin.pl',
+            'file_id' => '5611407',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'FirstTry.pl',
+            'file_id' => '5600457',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'axis.pl',
+            'file_id' => '5565023',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5561228',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5555915',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5550177',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5532284',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'huma1.pl',
+            'file_id' => '5531976',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531966',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531962',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5507963',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'replace_hashes.pl',
+            'file_id' => '5502408',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5486040',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'TestingPerl.pl',
+            'file_id' => '5467782',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466444',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466441',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test.pl',
+            'file_id' => '5462744',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5460890',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Moose.pl',
+            'file_id' => '5453882',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'UTF-8.pl.pl',
+            'file_id' => '5384044',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5382231',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitledo.pl',
+            'file_id' => '5378729',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5371380',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'unt2.pl',
+            'file_id' => '5332260',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332258',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332257',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5329653',
+            'description' => 'Created by www.tryperl.com.'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34526] debug @0.000027> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34527] debug @0.000023> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34524] debug @0.000025> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34525] debug @0.000023> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34528] debug @0.000027> Loaded config.. in /Library/Perl/5.12/Dancer/Plugin/Auth/Github.pm l. 51
+[34527] debug @3.390887> [hit #5]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34527] debug @3.391588> [hit #5]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'abcd_try.pl',
+            'file_id' => '6515325',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Tryout.pl',
+            'file_id' => '5655543',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5648627',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Bin.pl',
+            'file_id' => '5611407',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'FirstTry.pl',
+            'file_id' => '5600457',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'axis.pl',
+            'file_id' => '5565023',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5561228',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5555915',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5550177',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5532284',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'huma1.pl',
+            'file_id' => '5531976',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531966',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'timeStr.pl',
+            'file_id' => '5531962',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5507963',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'replace_hashes.pl',
+            'file_id' => '5502408',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5486040',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'TestingPerl.pl',
+            'file_id' => '5467782',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466444',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'first.pl',
+            'file_id' => '5466441',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test.pl',
+            'file_id' => '5462744',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5460890',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Moose.pl',
+            'file_id' => '5453882',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'UTF-8.pl.pl',
+            'file_id' => '5384044',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5382231',
+            'description' => 'Created by www.tryperl.com.'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitledo.pl',
+            'file_id' => '5378729',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5371380',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'unt2.pl',
+            'file_id' => '5332260',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332258',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5332257',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '5329653',
+            'description' => 'Created by www.tryperl.com.'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34526] debug @2.787674> [hit #6]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34526] debug @2.834213> [hit #6]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_github.pl',
+            'file_id' => '6508472',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_webservice.pl',
+            'file_id' => '6508454',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'my_app.pl',
+            'file_id' => '6508444',
+            'description' => 'Simplest dancer app'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'lwp_psgi_dance2.pl',
+            'file_id' => '6496750',
+            'description' => 'using LWP::Protocol::PSGI with dancer2'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'intro_tuple.py',
+            'file_id' => '6460607',
+            'description' => 'Introducing a tuple'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'login_test.pl',
+            'file_id' => '6440173',
+            'description' => 'login snippet from cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'session_test.pl',
+            'file_id' => '6439224',
+            'description' => 'session test from Dancer2 cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'WhatVersion.pl',
+            'file_id' => '4756586',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '4745756',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'myfile421.pl',
+            'file_id' => '4736479',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test42.pl',
+            'file_id' => '4642937',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 21 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ProjectEulerProblem3.pl',
+            'file_id' => '4642727',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 20 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'hello_tryperl.pl',
+            'file_id' => '4641895',
+            'description' => 'A welcome script that is loaded on www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'stackoverflow_api_test.pl',
+            'file_id' => '4541034',
+            'description' => 'stackoverflow_api_test'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'func_test.pl',
+            'file_id' => '4527452',
+            'description' => 'func tests for perl'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'query_str_to_hash.pl',
+            'file_id' => '4407649',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'githubAuthCallback.pl',
+            'file_id' => '4407631',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'gitHublogin.pl',
+            'file_id' => '4407530',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ScrapeImages.pl',
+            'file_id' => '4264554',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 19 hour(s)'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34526] debug @1.593982> [hit #10]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34526] debug @1.594461> [hit #10]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_github.pl',
+            'file_id' => '6508472',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_webservice.pl',
+            'file_id' => '6508454',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'my_app.pl',
+            'file_id' => '6508444',
+            'description' => 'Simplest dancer app'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'lwp_psgi_dance2.pl',
+            'file_id' => '6496750',
+            'description' => 'using LWP::Protocol::PSGI with dancer2'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'intro_tuple.py',
+            'file_id' => '6460607',
+            'description' => 'Introducing a tuple'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'login_test.pl',
+            'file_id' => '6440173',
+            'description' => 'login snippet from cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'session_test.pl',
+            'file_id' => '6439224',
+            'description' => 'session test from Dancer2 cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'WhatVersion.pl',
+            'file_id' => '4756586',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '4745756',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'myfile421.pl',
+            'file_id' => '4736479',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test42.pl',
+            'file_id' => '4642937',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 21 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ProjectEulerProblem3.pl',
+            'file_id' => '4642727',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 20 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'hello_tryperl.pl',
+            'file_id' => '4641895',
+            'description' => 'A welcome script that is loaded on www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'stackoverflow_api_test.pl',
+            'file_id' => '4541034',
+            'description' => 'stackoverflow_api_test'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'func_test.pl',
+            'file_id' => '4527452',
+            'description' => 'func tests for perl'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'query_str_to_hash.pl',
+            'file_id' => '4407649',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'githubAuthCallback.pl',
+            'file_id' => '4407631',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'gitHublogin.pl',
+            'file_id' => '4407530',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ScrapeImages.pl',
+            'file_id' => '4264554',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 19 hour(s)'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34527] debug @2.515411> [hit #16]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34527] debug @2.516036> [hit #16]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_github.pl',
+            'file_id' => '6508472',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_webservice.pl',
+            'file_id' => '6508454',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'my_app.pl',
+            'file_id' => '6508444',
+            'description' => 'Simplest dancer app'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'lwp_psgi_dance2.pl',
+            'file_id' => '6496750',
+            'description' => 'using LWP::Protocol::PSGI with dancer2'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'intro_tuple.py',
+            'file_id' => '6460607',
+            'description' => 'Introducing a tuple'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'login_test.pl',
+            'file_id' => '6440173',
+            'description' => 'login snippet from cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'session_test.pl',
+            'file_id' => '6439224',
+            'description' => 'session test from Dancer2 cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'WhatVersion.pl',
+            'file_id' => '4756586',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '4745756',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'myfile421.pl',
+            'file_id' => '4736479',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test42.pl',
+            'file_id' => '4642937',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 21 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ProjectEulerProblem3.pl',
+            'file_id' => '4642727',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 20 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'hello_tryperl.pl',
+            'file_id' => '4641895',
+            'description' => 'A welcome script that is loaded on www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'stackoverflow_api_test.pl',
+            'file_id' => '4541034',
+            'description' => 'stackoverflow_api_test'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'func_test.pl',
+            'file_id' => '4527452',
+            'description' => 'func tests for perl'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'query_str_to_hash.pl',
+            'file_id' => '4407649',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'githubAuthCallback.pl',
+            'file_id' => '4407631',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'gitHublogin.pl',
+            'file_id' => '4407530',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ScrapeImages.pl',
+            'file_id' => '4264554',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 19 hour(s)'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34524] debug @9.034066> [hit #18]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34524] debug @9.035239> [hit #18]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_github.pl',
+            'file_id' => '6508472',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_webservice.pl',
+            'file_id' => '6508454',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'my_app.pl',
+            'file_id' => '6508444',
+            'description' => 'Simplest dancer app'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'lwp_psgi_dance2.pl',
+            'file_id' => '6496750',
+            'description' => 'using LWP::Protocol::PSGI with dancer2'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'intro_tuple.py',
+            'file_id' => '6460607',
+            'description' => 'Introducing a tuple'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'login_test.pl',
+            'file_id' => '6440173',
+            'description' => 'login snippet from cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'session_test.pl',
+            'file_id' => '6439224',
+            'description' => 'session test from Dancer2 cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'WhatVersion.pl',
+            'file_id' => '4756586',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '4745756',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'myfile421.pl',
+            'file_id' => '4736479',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test42.pl',
+            'file_id' => '4642937',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 21 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ProjectEulerProblem3.pl',
+            'file_id' => '4642727',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 20 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'hello_tryperl.pl',
+            'file_id' => '4641895',
+            'description' => 'A welcome script that is loaded on www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'stackoverflow_api_test.pl',
+            'file_id' => '4541034',
+            'description' => 'stackoverflow_api_test'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'func_test.pl',
+            'file_id' => '4527452',
+            'description' => 'func tests for perl'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'query_str_to_hash.pl',
+            'file_id' => '4407649',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'githubAuthCallback.pl',
+            'file_id' => '4407631',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'gitHublogin.pl',
+            'file_id' => '4407530',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ScrapeImages.pl',
+            'file_id' => '4264554',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 19 hour(s)'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98
+[34527] debug @2.099568> [hit #21]===> Dumping gist fetched in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 97
+[34527] debug @2.100214> [hit #21]$VAR1 = [
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_github.pl',
+            'file_id' => '6508472',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'dancer_webservice.pl',
+            'file_id' => '6508454',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'my_app.pl',
+            'file_id' => '6508444',
+            'description' => 'Simplest dancer app'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'lwp_psgi_dance2.pl',
+            'file_id' => '6496750',
+            'description' => 'using LWP::Protocol::PSGI with dancer2'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'intro_tuple.py',
+            'file_id' => '6460607',
+            'description' => 'Introducing a tuple'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'login_test.pl',
+            'file_id' => '6440173',
+            'description' => 'login snippet from cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'session_test.pl',
+            'file_id' => '6439224',
+            'description' => 'session test from Dancer2 cookbook.pod'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'WhatVersion.pl',
+            'file_id' => '4756586',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'Untitled.pl',
+            'file_id' => '4745756',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'myfile421.pl',
+            'file_id' => '4736479',
+            'description' => 'Created by www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'test42.pl',
+            'file_id' => '4642937',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 21 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ProjectEulerProblem3.pl',
+            'file_id' => '4642727',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 20 hour(s)'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'hello_tryperl.pl',
+            'file_id' => '4641895',
+            'description' => 'A welcome script that is loaded on www.tryperl.com'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'stackoverflow_api_test.pl',
+            'file_id' => '4541034',
+            'description' => 'stackoverflow_api_test'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'func_test.pl',
+            'file_id' => '4527452',
+            'description' => 'func tests for perl'
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'query_str_to_hash.pl',
+            'file_id' => '4407649',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'githubAuthCallback.pl',
+            'file_id' => '4407631',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'gitHublogin.pl',
+            'file_id' => '4407530',
+            'description' => ''
+          },
+          {
+            'comment_count' => 0,
+            'filename' => 'ScrapeImages.pl',
+            'file_id' => '4264554',
+            'description' => 'Created by www.tryperl.com. Updated on 26-0-113 at 19 hour(s)'
+          }
+        ]; in /Users/gideon/Documents/Coding/TryPerlMain/TryPerlApp/lib/TryPerlApp.pm l. 98

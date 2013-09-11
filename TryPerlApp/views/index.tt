@@ -1,0 +1,114 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Try Perl</title>
+    <link href="http://cdn.sencha.io/ext-4.0.7-gpl/resources/css/ext-all.css" rel="stylesheet"  type="text/css" />
+    <link href="<% request.uri_base %>/css/site.css" rel="Stylesheet" type="text/css" />
+</head>
+<body>
+    <script src="http://d1n0x3qji82z53.cloudfront.net/src-min-noconflict/ace.js" type="text/javascript"
+        charset="utf-8"></script>
+    <script type="text/javascript" src="http://cdn.sencha.io/ext-4.0.7-gpl/ext-all.js"></script>
+    <script src="<% request.uri_base %>/javascripts-min/Globals.js" type="text/javascript"></script>
+    
+<script type='text/javascript'>
+	<% IF username %>
+				Globals.Username = '<% username %>';
+	<% END %>
+	<% IF gravatarId %>
+				Globals.GravatarId = '<% gravatarId %>';
+	<% END %>
+	<% IF login_url %>
+				Globals.LoginUrl = '<% login_url %>';
+	<% END %>
+</script>
+<script src="<% request.uri_base %>/javascripts-min/uglifiedScript.js" type="text/javascript"></script>
+<!-- <script src="<% request.uri_base %>/javascripts-min/1.AceEditor.js" type="text/javascript"></script>
+<script src="<% request.uri_base %>/javascripts-min/2.HelpWindow.js" type="text/javascript"></script>
+<script src="<% request.uri_base %>/javascripts-min/3.AboutWindow.js" type="text/javascript"></script>
+<script src="<% request.uri_base %>/javascripts-min/4.TryPerl.Constants.js" type="text/javascript"></script>
+<script src="<% request.uri_base %>/javascripts-min/5.TryPerl.CodeManager.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/6.TryPerl.CodeFileModel.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/7.TryPerl.CodeFileStore.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/8.TryPerl.FileGrid.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/9.TryPerl.Toolbar.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/10.TryPerl.OutputPanel.js" type="text/javascript"></script>
+<script src="<% request.uri_base %>/javascripts-min/11.TryPerl.Viewport.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/12.TryPerlIde.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/13.AceManager.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/14.MainEventBus.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/15.MainController.js" type="text/javascript" charset="utf-8"></script>
+<script src="<% request.uri_base %>/javascripts-min/16.PerlCompiler.js" type="text/javascript" charset="utf-8"></script> -->
+     
+
+    <script type="text/javascript">
+        Ext.onReady(function () {
+			//this is for tooltips..
+            Ext.tip.QuickTipManager.init();
+			//a bus, which has now just gotten polluted..it handles most events..
+            var _MainEventBus = Ext.create('MainEventBus');
+            Globals.setEventBus(_MainEventBus);//set it inside out singleton Globals class.
+            MainController.prepareHandlers();
+			//create our IDE. Yes it's sorta componentized.
+            var ide = Ext.create('TryPerlIde');
+            AceManager.aceify('codeEditor');
+			//disable menu items.
+			if(Globals.Username == TryPerl.Constants.ANON_USER) {
+				Ext.getCmp('btnLogin').show();
+				Ext.getCmp('btnLogOff').hide();
+				Ext.getCmp('btnUserName').hide();
+			} else {
+				Ext.getCmp('btnLogin').hide();
+				Ext.getCmp('btnLogOff').show();
+				Ext.getCmp('btnUserName').show();
+			}
+			
+            //check for the hash...get the default "hello" file
+			var fileId = Globals.getHash()
+			if(fileId == "") {
+	            TryPerl.CodeManager.getFileContent(Globals.DefaultFile, function(content) {
+					Globals.openFile(Globals.DefaultFile, content, 'hello_tryperl.pl');
+				});
+			} else {
+				TryPerl.CodeManager.getFileContent(fileId, function(content, filename) {
+					Globals.openFile(fileId, content, filename);
+				});
+			}
+			
+			/*
+					//A feeble attempt at focusing the editor on every text keystroke.
+					var map = new Ext.util.KeyMap(document,{
+						key: "A",
+						fn: function() {
+							console.log("A");
+							Ext.get('codeEditor').focus(200);
+						}
+					});
+*/
+        });    
+    </script>  
+<!-- ============================================================================ -->    
+<!-- Google Analytics Tracker     -->
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37222792-1']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+<!-- ==================================================================================== -->
+<!-- UserVoice integration -->
+<script type="text/javascript">
+  var uvOptions = {};
+  (function() {
+    var uv = document.createElement('script'); uv.type = 'text/javascript'; uv.async = true;
+    uv.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'widget.uservoice.com/d8tosxNjmzpWOGuLExFVWg.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(uv, s);
+  })();
+</script>
+
+</body>
+</html>
