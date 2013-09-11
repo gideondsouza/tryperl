@@ -198,7 +198,7 @@ post '/getcolors' => sub {
 sub getGitHubObj {
 	my $gh;
 	if(not session('github_user')) {
-		$gh = Net::GitHub::V3->new({ login => 'tryperl', pass => 'Judges678*_t'});
+		$gh = Net::GitHub::V3->new({ login => 'tryperl', pass => ''});
 	} else {
 		$gh = Net::GitHub::V3->new(access_token => session('github_access_token'));
 	}
