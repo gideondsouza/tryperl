@@ -1,17 +1,16 @@
 TryPerl
 =======
 
-TryPerl is a cloud IDE for Perl. It's still a long standing work in progress.
+TryPerl is a cloud IDE for Perl. It's still a feeble attempt at a Perl cloud IDE. More like a Perl Notepad. It asks to login via Github and each perl script created in TryPerl is a _Gist_ on your github account.
 
-Check it out live : http://www.tryperl.com
+Check it out live : http://www.tryperl.com _(currently offline)_
 
-Currently it doesn't execute code. (I know this seems very pointless). 
+This is what it looks like:
+![Image of tryperl.com](https://github.com/gideondsouza/tryperl/blob/master/TryPerlApp/public/images/screenie.png)
 
 I did however, make it work in the past with FreeBSD jails, Linux Containers and other crazy things but (like you guessed)
 there were security holes and I couldn't fix them.
 
-I'm not giving up though, I'm learning something new everyday and hopefully in sometime I will have enough expertise 
-to write  a debugger/tracer _executor_ program that will use [ptrace](http://en.wikipedia.org/wiki/Ptrace) to inspect and 
-run a program and shut down anything malicous.
+I plan to use Docker to make this work. [Here is](http://stackoverflow.com/q/14861478/368070) post on stackoverflow where I tried to ask about it. 
 
-If you think you can help, please email me at gideon at cpan dot org
+If you think you can help, please email me at gideon at cpan dot org or add an answer to the stackoverflow post.
